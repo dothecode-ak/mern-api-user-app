@@ -1,0 +1,20 @@
+{
+    "name": "react-node-api-app",
+    "version": "1.0.0",
+    "description": "it's react node js app",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Anil",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.0",
+        "sequelize": "^6.7.0"
+    }
+}
